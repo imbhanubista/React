@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(111, 201, 201);
+  box-sizing: border-box;
+  padding: 0%;
+  font-family: 'Kaisei HarunoUmi', serif;
+}
+
+
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+h1{
+  padding: 20px 20px;
+  font-size: 50px;
+  background-color: cornsilk;
+  border-radius: 30px;
+}
